@@ -1,2 +1,2 @@
 # hello-world
-Just another Repository
+This is the first editing of the Hello-world repository READE file.
